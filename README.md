@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Evandro Orlandini
 
-- 🔭 Hoje trabalho como analista de marketing e desenvolvedor Wordpress
+- 💰 Hoje trabalho como analista de marketing e desenvolvedor Wordpress
 - 🌱 Estudando desenvolvimento front-end e Análise e Desenvolvimento de Sistemas na Univali.
 
 <div>
@@ -22,10 +22,10 @@
   
   <div> 
 
-  <a href="https://instagram.com/evanorlandini1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:evandroorlandini9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evandro-orlandini-8845301b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EvandroOrlandini/EvandroOrlandini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
