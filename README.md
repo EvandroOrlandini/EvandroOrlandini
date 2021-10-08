@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Evandro Orlandini
 
 - 💰 Hoje Administrador trabalho como Analista de Marketing e Desenvolvedor Wordpress em transição de carreira para TI.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na Univali.
+- <img src="https://img.icons8.com/nolan/64/programming.png"/> Estudando Análise e Desenvolvimento de Sistemas na Univali.
 
 <div>
   <a href="https://github.com/evandroorlandini">
