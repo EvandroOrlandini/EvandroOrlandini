@@ -1,5 +1,5 @@
-## Oiii! Seja bem vindo ao meu perfil!
-Eu sou o Evandro Orlandini
+## Oiii! Eu sou o Evandro Orlandini
+ Seja bem vindo ao meu perfil!
 
 
 - <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" /> Administrador apaixonado por Desenvolvimento Empresarial, trabalho como Analista de Marketing e Desenvolvedor Wordpress construindo uma carreira para TI.
