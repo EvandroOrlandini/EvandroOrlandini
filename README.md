@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Evandro Orlandini
+## Oi! Eu sou o Evandro Orlandini
  Seja bem vindo ao meu perfil!
 
 
