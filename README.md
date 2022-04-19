@@ -2,7 +2,7 @@
  Seja bem vindo ao meu perfil!
 
 
-- <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" /> Sou Administrador, apaixonado por Desenvolvimento Empresarial, trabalho como Analista de Marketing e Desenvolvedor Wordpress freelancer; buscando passo a passo construir uma carreira em TI como Fullstack
+- <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" /> Sou Administrador, apaixonado por Desenvolvimento Empresarial e criação de soluções que otimizem sitemas e processos, trabalho como Analista de Marketing e Desenvolvedor Wordpress; buscando passo a passo construir uma carreira em TI como Fullstack
 - <img src="https://img.icons8.com/nolan/64/programming.png"/> Estudando Análise e Desenvolvimento de Sistemas na Univali.
 
 
