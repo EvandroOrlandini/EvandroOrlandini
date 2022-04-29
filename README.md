@@ -2,7 +2,9 @@
  Seja bem vindo ao meu perfil!
 
 
-- <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" /> Sou Administrador, apaixonado por Gestão de Projetos, Desenvolvimento Empresarial e criação de soluções que otimizem processos, sistemas e resultados; sou embaixador DIO Campus Expert criando e divulgando conteúdos de oportunidades de tecnologia;  trabalho Desenvolvedor WordPress;construindo uma carreira como Desenvolvedor Fullstack
+- <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" /> Sou Administrador, apaixonado por Gestão de Projetos, Desenvolvimento Empresarial e criação de soluções que otimizem processos, sistemas e resultados; 
+- Sou embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
+- Trabalho Desenvolvedor WordPress;construindo uma carreira como Desenvolvedor Fullstack
 - <img src="https://img.icons8.com/nolan/64/programming.png"/> Estudando Análise e Desenvolvimento de Sistemas na Univali.
 
 
