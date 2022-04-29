@@ -14,6 +14,7 @@
 - Trabalho Desenvolvedor WordPress e Analista de Marketing Digital 
 
 <img src="https://img.icons8.com/nolan/64/programming.png"/> 
+
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 
 - Aprendendo de tudo mas, me especializando em linguagens orientadas a objetos :PHP, .NET ,JAVA 
