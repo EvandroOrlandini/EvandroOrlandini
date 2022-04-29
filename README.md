@@ -12,8 +12,9 @@
 - Embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
 -  Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 
-<img src="https://img.icons8.com/nolan/64/programming.png"/> 
 
+
+<img src="https://code.iconify.design/2/2.2.1/iconify.min.js"/> 
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 
 - Aprendendo de tudo, mas me especializando em linguagens orientadas a objetos :PHP, .NET ,JAVA 
@@ -22,6 +23,7 @@
 
 
 
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" />
 
 
 
