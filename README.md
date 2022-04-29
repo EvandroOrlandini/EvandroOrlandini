@@ -4,18 +4,18 @@
 
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" />
 
-- Desenvolvedor Fullstack Jr.
+- Desenvolvedor Fullstack Jr
 
 
 
 
-- Administrador, apaixonado por Gestão de Projetos, Desenvolvimento Empresarial e de Sistemas que criem soluções que otimizem processos e resultados; 
+- Administrador de Empresas, pós graduando em Gestão Marketing Digital pela FIA, apaixonado por Gestão de Projetos, Desenvolvimento Empresarial e de Sistemas que criem soluções que otimizem processos e resultados; 
 - Sou embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
-- Trabalho Desenvolvedor WordPress e Analista de Marketing Digital Freelancer
+- Trabalho Desenvolvedor WordPress e Analista de Marketing Digital 
 
-<img src="https://img.icons8.com/nolan/64/programming.png"/>- Estudando Análise e Desenvolvimento de Sistemas na Univali.
-
-
+<img src="https://img.icons8.com/nolan/64/programming.png"/> 
+Cursando Análise e Desenvolvimento de Sistemas na Univali.
+- Aprendendo de tudo mas me especializando em linguagens orientadas a objetos : PHP, .NET ,JAVA 
 <div>
   <a href="https://github.com/evandroorlandini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroOrlandini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
