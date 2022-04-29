@@ -13,7 +13,7 @@
 
 
 
-<img src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>/> 
+
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 
 - Aprendendo de tudo, mas me especializando em linguagens orientadas a objetos :PHP, .NET ,JAVA 
