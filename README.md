@@ -15,7 +15,10 @@
 
 <img src="https://img.icons8.com/nolan/64/programming.png"/> 
 Cursando Análise e Desenvolvimento de Sistemas na Univali.
-- Aprendendo de tudo mas me especializando em linguagens orientadas a objetos : PHP, .NET ,JAVA 
+- Aprendendo de tudo mas, me especializando em linguagens orientadas a objetos :PHP, .NET ,JAVA 
+
+
+
 <div>
   <a href="https://github.com/evandroorlandini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroOrlandini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
