@@ -19,6 +19,11 @@ Cursando Análise e Desenvolvimento de Sistemas na Univali.
 
 
 
+
+
+
+
+
 <div>
   <a href="https://github.com/evandroorlandini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroOrlandini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
