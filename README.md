@@ -5,7 +5,7 @@
 
 - Desenvolvedor de Softwere 
 
-
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" />
 
 - Administrador de Empresas pela UPF, pós graduando em Gestão Marketing Digital pela FIA, apaixonado por Gestão de Projetos, Sistemas de Gestão e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados; 
 - Embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
