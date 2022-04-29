@@ -10,7 +10,7 @@
 
 
 - Administrador de Empresas, pós graduando em Gestão Marketing Digital pela FIA, apaixonado por Gestão de Projetos, Desenvolvimento Empresarial e de Sistemas que criem soluções que otimizem processos e resultados; 
-- Sou embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
+-  Embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
 - Trabalho Desenvolvedor WordPress e Analista de Marketing Digital 
 
 <img src="https://img.icons8.com/nolan/64/programming.png"/> 
