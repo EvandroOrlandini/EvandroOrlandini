@@ -7,7 +7,7 @@
 
 
 
-- Administrador de Empresas, pós graduando em Gestão Marketing Digital pela FIA, apaixonado por Gestão de Projetos, Sistemas de Gestão e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados; 
+- Administrador de Empresas pela UPF, pós graduando em Gestão Marketing Digital pela FIA, apaixonado por Gestão de Projetos, Sistemas de Gestão e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados; 
 - Embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
 -  Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 
