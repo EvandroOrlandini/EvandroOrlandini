@@ -13,8 +13,7 @@
 - Sou embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
 - Trabalho Desenvolvedor WordPress e Analista de Marketing Digital Freelancer
 
-<img src="https://img.icons8.com/nolan/64/programming.png"/> 
-- Estudando Análise e Desenvolvimento de Sistemas na Univali.
+<img src="https://img.icons8.com/nolan/64/programming.png"/>- Estudando Análise e Desenvolvimento de Sistemas na Univali.
 
 
 <div>
