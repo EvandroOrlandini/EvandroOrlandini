@@ -2,7 +2,6 @@
  Seja bem vindo ao meu perfil!
 
 
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" />
 
 - Desenvolvedor de Softwere 
 
@@ -22,8 +21,6 @@
 
 
 
-
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" />
 
 
 
