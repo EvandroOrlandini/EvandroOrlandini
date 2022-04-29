@@ -3,6 +3,7 @@
 
 
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-money-banking-and-finance-kiranshastry-lineal-color-kiranshastry.png" />
+
 - Desenvolvedor Fullstack Jr.
 
 
