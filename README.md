@@ -8,13 +8,13 @@
 
 
 - Administrador de Empresas pela UPF, pós graduando em Gestão Marketing Digital pela FIA, apaixonado por Gestão de Projetos, Sistemas de Gestão e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados; 
-- Embaixador DIO Campus Expert criando e divulgando conteúdos e oportunidades de tecnologia;  
--  Trabalhando como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
+- Embaixador DIO Campus Expert crio e divulgo conteúdos e oportunidades de tecnologia;  
+-  Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 
 
 
 
-- Cursando Análise e Desenvolvimento de Sistemas na Univali.
+- Curso Análise e Desenvolvimento de Sistemas na Univali.
 
 - Aprendendo de tudo, mas me especializando em linguagens orientadas a objetos :PHP, .NET ,JAVA 
 
