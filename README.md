@@ -3,7 +3,7 @@
 
 
 
-- Desenvolvedor de Softwere 
+- Desenvolvedor de Software 
 
 
 
