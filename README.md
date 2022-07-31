@@ -12,20 +12,7 @@
 -  Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 
 
-<meta charset="UTF-8">
-<script>
-    function fazPegadinha() {
-        alert("Olá");
-        alert("amiga!");
-        alert("Tá");
-        alert("bastante");
-        alert("entediada?");
-        alert("Em ficar");
-        alert("Clicando em");
-        alert("Ok");
-        alert("né?");
-    }
-</script>
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/DifferentAccomplishedAmazondolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/jim-carrey-gifs">from Jim Carrey GIFs</a></p>
 
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 - Cursando o ONE - Oracle Next Education - programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
