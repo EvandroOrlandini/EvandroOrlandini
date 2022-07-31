@@ -7,7 +7,7 @@
 
 
 
-- Administrador de Empresas pela UPF, apaixonado por apreender e ensinar, Negócios, Inovação, Marketing Digital, Gestão de Projetos, Sistemas de Gestão ERP e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados; 
+- Administrador de Empresas pela UPF, apaixonado por aprender e ensinar, Negócios, Inovação, Marketing Digital, Gestão de Projetos, Sistemas de Gestão ERP e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados; 
 - Embaixador DIO Campus Expert crio e divulgo conteúdos e oportunidades de tecnologia;  
 -  Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 
