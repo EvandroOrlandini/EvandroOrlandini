@@ -12,7 +12,20 @@
 -  Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 
 
-
+<meta charset="UTF-8">
+<script>
+    function fazPegadinha() {
+        alert("Olá");
+        alert("amiga!");
+        alert("Tá");
+        alert("bastante");
+        alert("entediada?");
+        alert("Em ficar");
+        alert("Clicando em");
+        alert("Ok");
+        alert("né?");
+    }
+</script>
 
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 - Cursando o ONE - Oracle Next Education - programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
