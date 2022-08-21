@@ -8,7 +8,7 @@
 
 
 - Administrador de Empresas apaixonado por Aprender e Ensinar, Negócios, Consultoria, Inovação, Marketing Digital, Gestão de Projetos, Sistemas de Gestão ERP e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados;
-- Embaixador DIO Campus Expert crio e divulgo conteúdos e oportunidades de tecnologia;  
+- Embaixador DIO Campus Expert crio e divulgo conteúdos e oportunidades de tecnologia;
 - Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 - Cursando o ONE - Oracle Next Education - programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
