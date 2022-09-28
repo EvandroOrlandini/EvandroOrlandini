@@ -13,7 +13,7 @@
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
 - Cursando o ONE - Oracle Next Education - programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
 
-- Aprendendo desenvolvimento web (html, Javascript, Css e PHP) mas me especializando nas linguagens orientadas a objetos: .NET e JAVA.
+- Aprendendo desenvolvimento web (html, Javascript, Css e PHP) mas me especializando em  JAVA.
 
 
 
