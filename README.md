@@ -7,7 +7,7 @@
 
 
 
-- Administrador de Empresas apaixonado por Aprender e Ensinar, Negócios, Consultoria, Inovação, Marketing Digital, Gestão de Projetos, Sistemas de Gestão ERP e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados;
+- Administrador de Empresas apaixonado por Aprender e Ensinar, Desenvolvimento de Negócios, Consultoria, Inovação, Marketing Digital, Gestão de Projetos, Sistemas de Gestão e Desenvolvimento de Sistemas que criem soluções que otimizem processos e resultados;
 - Embaixador DIO Campus Expert crio e divulgo conteúdos e oportunidades de tecnologia;
 - Trabalho como Desenvolvedor WordPress, Analista de Marketing Digital e Consultor Empresarial
 - Cursando Análise e Desenvolvimento de Sistemas na Univali.
