@@ -3,7 +3,7 @@
 
 
 
-- Desenvolvedor de Software Fullstack in process.... seguindo uma carreira em T
+- Desenvolvedor de Software Fullstack seguindo uma carreira em T
 
 
 
